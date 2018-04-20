@@ -1,10 +1,8 @@
-header h1{
-    text-align: center;
-    font-size: 50px;
-    color: black;
+div#pic {
+    
+    width: 50px;
+    height:50px;
+        
 }
 
-nav ul{
-    margin: 15px;
-    color: aqua
-}
+div
